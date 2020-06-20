@@ -11,14 +11,21 @@
     "expo": "~37.0.3",
     "expo-splash-screen": "^0.2.3",
     "expo-updates": "~0.2.0",
+    "moment": "^2.26.0",
     "react": "~16.9.0",
     "react-dom": "~16.9.0",
     "react-native": "~0.61.5",
+    "react-native-audio": "^4.3.0",
+    "react-native-audio-record": "^0.2.2",
+    "react-native-elements": "^2.0.2",
+    "react-native-fs": "^2.16.6",
     "react-native-gesture-handler": "~1.6.0",
     "react-native-reanimated": "~1.7.0",
+    "react-native-router-flux": "^4.2.0",
     "react-native-screens": "~2.2.0",
     "react-native-unimodules": "~0.9.0",
-    "react-native-web": "~0.11.7"
+    "react-native-web": "~0.11.7",
+    "realm": "^6.0.2"
   },
   "devDependencies": {
     "@babel/core": "~7.9.0",

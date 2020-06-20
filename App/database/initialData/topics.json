@@ -1,0 +1,300 @@
+{
+    "topics": [
+        {
+            "name": "Động vật",
+            "image": "learningTopic",
+            "lessons": [
+                {
+                    "id": 1,
+                    "name": "Gia súc",
+                    "image": "learningLesson",
+                    "levelLessons": [
+                        {
+                            "id": 1,
+                            "level": "easy",
+                            "image": "learningLevelLesson",
+                            "totalQuestions": 3,
+                            "questions": [
+                                {
+                                    "id": 1,
+                                    "content": "Đây là con gì?",
+                                    "answer": "bò",
+                                    "audio": "",
+                                    "images": ["cow"]
+                                },
+                                {
+                                    "id": 2,
+                                    "content": "Đây là con gì?",
+                                    "answer": "trâu",
+                                    "audio": "",
+                                    "images": ["buffalo"]
+                                },
+                                {
+                                    "id": 3,
+                                    "content": "Đây là con gì?",
+                                    "answer": "dê",
+                                    "audio": "",
+                                    "images": ["goat"]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 2,
+                            "level": "hard",
+                            "image": "learningLevelLesson",
+                            "totalQuestions": 3,
+                            "questions": [
+                                {
+                                    "id": 4,
+                                    "content": "Đây là con gì?",
+                                    "answer": "lạc đà",
+                                    "audio": "",
+                                    "images": ["camel"]
+                                },
+                                {
+                                    "id": 5,
+                                    "content": "Đây là con gì?",
+                                    "answer": "tuần lộc",
+                                    "audio": "",
+                                    "images": ["reindeer"]
+                                },
+                                {
+                                    "id": 6,
+                                    "content": "Đây là con gì?",
+                                    "answer": "cừu",
+                                    "audio": "",
+                                    "images": ["sheep"]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Bò sát",
+                    "image": "learningLesson",
+                    "levelLessons": [
+                        {
+                            "id": 3,
+                            "level": "easy",
+                            "image": "learningLevelLesson",
+                            "totalQuestions": 3,
+                            "questions": [
+                                {
+                                    "id": 7,
+                                    "content": "Đây là con gì?",
+                                    "answer": "rùa",
+                                    "audio": "",
+                                    "images": ["turtle"]
+                                },
+                                {
+                                    "id": 8,
+                                    "content": "Đây là con gì?",
+                                    "answer": "rắn",
+                                    "audio": "",
+                                    "images": ["snake"]
+                                },
+                                {
+                                    "id": 9,
+                                    "content": "Đây là con gì?",
+                                    "answer": "trăn",
+                                    "audio": "",
+                                    "images": ["anaconda"]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 4,
+                            "level": "hard",
+                            "image": "learningLevelLesson",
+                            "totalQuestions": 3,
+                            "questions": [
+                                {
+                                    "id": 10,
+                                    "content": "Đây là con gì?",
+                                    "answer": "cá sấu",
+                                    "audio": "",
+                                    "images": ["crocodile"]
+                                },
+                                {
+                                    "id": 11,
+                                    "content": "Đây là con gì?",
+                                    "answer": "thằn lằn",
+                                    "audio": "",
+                                    "images": ["lizard"]
+                                },
+                                {
+                                    "id": 12,
+                                    "content": "Đây là con gì?",
+                                    "answer": "tắc kè",
+                                    "audio": "",
+                                    "images": ["gecko"]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Cơ thể người",
+            "image": "learningTopic",
+            "lessons": [
+                {
+                    "id": 3,
+                    "name": "Gia súc",
+                    "image": "learningLesson",
+                    "levelLessons": [
+                        {
+                            "id": 5,
+                            "level": "easy",
+                            "image": "learningLevelLesson",
+                            "totalQuestions": 3,
+                            "questions": [
+                                {
+                                    "id": 13,
+                                    "content": "Đây là con gì?",
+                                    "answer": "bò",
+                                    "audio": "",
+                                    "images": [
+                                        "cow"
+                                    ]
+                                },
+                                {
+                                    "id": 14,
+                                    "content": "Đây là con gì?",
+                                    "answer": "trâu",
+                                    "audio": "",
+                                    "images": [
+                                        "buffalo"
+                                    ]
+                                },
+                                {
+                                    "id": 15,
+                                    "content": "Đây là con gì?",
+                                    "answer": "dê",
+                                    "audio": "",
+                                    "images": [
+                                        "goat"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 6,
+                            "level": "hard",
+                            "image": "learningLevelLesson",
+                            "totalQuestions": 3,
+                            "questions": [
+                                {
+                                    "id": 16,
+                                    "content": "Đây là con gì?",
+                                    "answer": "lạc đà",
+                                    "audio": "",
+                                    "images": [
+                                        "camel"
+                                    ]
+                                },
+                                {
+                                    "id": 17,
+                                    "content": "Đây là con gì?",
+                                    "answer": "tuần lộc",
+                                    "audio": "",
+                                    "images": [
+                                        "reindeer"
+                                    ]
+                                },
+                                {
+                                    "id": 18,
+                                    "content": "Đây là con gì?",
+                                    "answer": "cừu",
+                                    "audio": "",
+                                    "images": [
+                                        "sheep"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Bò sát",
+                    "image": "learningLesson",
+                    "levelLessons": [
+                        {
+                            "id": 7,
+                            "level": "easy",
+                            "image": "learningLevelLesson",
+                            "totalQuestions": 3,
+                            "questions": [
+                                {
+                                    "id": 19,
+                                    "content": "Đây là con gì?",
+                                    "answer": "rùa",
+                                    "audio": "",
+                                    "images": [
+                                        "turtle"
+                                    ]
+                                },
+                                {
+                                    "id": 20,
+                                    "content": "Đây là con gì?",
+                                    "answer": "rắn",
+                                    "audio": "",
+                                    "images": [
+                                        "snake"
+                                    ]
+                                },
+                                {
+                                    "id": 21,
+                                    "content": "Đây là con gì?",
+                                    "answer": "trăn",
+                                    "audio": "",
+                                    "images": [
+                                        "anaconda"
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "id": 8,
+                            "level": "hard",
+                            "image": "learningLevelLesson",
+                            "totalQuestions": 3,
+                            "questions": [
+                                {
+                                    "id": 22,
+                                    "content": "Đây là con gì?",
+                                    "answer": "cá sấu",
+                                    "audio": "",
+                                    "images": [
+                                        "crocodile"
+                                    ]
+                                },
+                                {
+                                    "id": 23,
+                                    "content": "Đây là con gì?",
+                                    "answer": "thằn lằn",
+                                    "audio": "",
+                                    "images": [
+                                        "lizard"
+                                    ]
+                                },
+                                {
+                                    "id": 24,
+                                    "content": "Đây là con gì?",
+                                    "answer": "tắc kè",
+                                    "audio": "",
+                                    "images": [
+                                        "gecko"
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

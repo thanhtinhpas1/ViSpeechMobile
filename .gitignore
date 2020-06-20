@@ -2,6 +2,8 @@
 #
 .DS_Store
 
+/android/java_pid3688.hprof
+
 # Xcode
 #
 build/
