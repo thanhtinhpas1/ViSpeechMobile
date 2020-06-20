@@ -2,17 +2,17 @@
     "topics": [
         {
             "name": "Động vật",
-            "image": "learningTopic",
+            "image": "reindeer",
             "lessons": [
                 {
                     "id": 1,
                     "name": "Gia súc",
-                    "image": "learningLesson",
+                    "image": "sheep",
                     "levelLessons": [
                         {
                             "id": 1,
                             "level": "easy",
-                            "image": "learningLevelLesson",
+                            "image": "goat",
                             "totalQuestions": 3,
                             "questions": [
                                 {
@@ -41,7 +41,7 @@
                         {
                             "id": 2,
                             "level": "hard",
-                            "image": "learningLevelLesson",
+                            "image": "sheep",
                             "totalQuestions": 3,
                             "questions": [
                                 {
@@ -72,12 +72,12 @@
                 {
                     "id": 2,
                     "name": "Bò sát",
-                    "image": "learningLesson",
+                    "image": "anaconda",
                     "levelLessons": [
                         {
                             "id": 3,
                             "level": "easy",
-                            "image": "learningLevelLesson",
+                            "image": "snake",
                             "totalQuestions": 3,
                             "questions": [
                                 {
@@ -106,7 +106,7 @@
                         {
                             "id": 4,
                             "level": "hard",
-                            "image": "learningLevelLesson",
+                            "image": "lizard",
                             "totalQuestions": 3,
                             "questions": [
                                 {
@@ -137,45 +137,45 @@
             ]
         },
         {
-            "name": "Cơ thể người",
-            "image": "learningTopic",
+            "name": "Con người",
+            "image": "people",
             "lessons": [
                 {
                     "id": 3,
-                    "name": "Gia súc",
-                    "image": "learningLesson",
+                    "name": "Cơ thể con người",
+                    "image": "ear",
                     "levelLessons": [
                         {
                             "id": 5,
                             "level": "easy",
-                            "image": "learningLevelLesson",
+                            "image": "eye",
                             "totalQuestions": 3,
                             "questions": [
                                 {
                                     "id": 13,
-                                    "content": "Đây là con gì?",
-                                    "answer": "bò",
+                                    "content": "Đây là bộ phận gì?",
+                                    "answer": "mắt",
                                     "audio": "",
                                     "images": [
-                                        "cow"
+                                        "eye"
                                     ]
                                 },
                                 {
                                     "id": 14,
-                                    "content": "Đây là con gì?",
-                                    "answer": "trâu",
+                                    "content": "Đây là bộ phận gì?",
+                                    "answer": "mũi",
                                     "audio": "",
                                     "images": [
-                                        "buffalo"
+                                        "nose"
                                     ]
                                 },
                                 {
                                     "id": 15,
-                                    "content": "Đây là con gì?",
-                                    "answer": "dê",
+                                    "content": "Đây là bộ phận gì?",
+                                    "answer": "tai",
                                     "audio": "",
                                     "images": [
-                                        "goat"
+                                        "ear"
                                     ]
                                 }
                             ]
@@ -183,34 +183,34 @@
                         {
                             "id": 6,
                             "level": "hard",
-                            "image": "learningLevelLesson",
+                            "image": "foot",
                             "totalQuestions": 3,
                             "questions": [
                                 {
                                     "id": 16,
-                                    "content": "Đây là con gì?",
-                                    "answer": "lạc đà",
+                                    "content": "Đây là bộ phận gì?",
+                                    "answer": "chân",
                                     "audio": "",
                                     "images": [
-                                        "camel"
+                                        "foot"
                                     ]
                                 },
                                 {
                                     "id": 17,
-                                    "content": "Đây là con gì?",
-                                    "answer": "tuần lộc",
+                                    "content": "Đây là bộ phận gì?",
+                                    "answer": "tay",
                                     "audio": "",
                                     "images": [
-                                        "reindeer"
+                                        "hand"
                                     ]
                                 },
                                 {
                                     "id": 18,
-                                    "content": "Đây là con gì?",
-                                    "answer": "cừu",
+                                    "content": "Đây là bộ phận gì?",
+                                    "answer": "bụng",
                                     "audio": "",
                                     "images": [
-                                        "sheep"
+                                        "stomatch"
                                     ]
                                 }
                             ]
@@ -219,40 +219,40 @@
                 },
                 {
                     "id": 4,
-                    "name": "Bò sát",
-                    "image": "learningLesson",
+                    "name": "Cơ thể con người",
+                    "image": "heart",
                     "levelLessons": [
                         {
                             "id": 7,
                             "level": "easy",
-                            "image": "learningLevelLesson",
+                            "image": "heart",
                             "totalQuestions": 3,
                             "questions": [
                                 {
                                     "id": 19,
-                                    "content": "Đây là con gì?",
-                                    "answer": "rùa",
+                                    "content": "Đây là bộ phận gì?",
+                                    "answer": "tim",
                                     "audio": "",
                                     "images": [
-                                        "turtle"
+                                        "heart"
                                     ]
                                 },
                                 {
                                     "id": 20,
-                                    "content": "Đây là con gì?",
-                                    "answer": "rắn",
+                                    "content": "Đây là bộ phận gì?",
+                                    "answer": "phổi",
                                     "audio": "",
                                     "images": [
-                                        "snake"
+                                        "lung"
                                     ]
                                 },
                                 {
                                     "id": 21,
-                                    "content": "Đây là con gì?",
-                                    "answer": "trăn",
+                                    "content": "Đây là bộ phận gì?",
+                                    "answer": "gan",
                                     "audio": "",
                                     "images": [
-                                        "anaconda"
+                                        "gan"
                                     ]
                                 }
                             ]
@@ -260,34 +260,34 @@
                         {
                             "id": 8,
                             "level": "hard",
-                            "image": "learningLevelLesson",
+                            "image": "knee",
                             "totalQuestions": 3,
                             "questions": [
                                 {
                                     "id": 22,
-                                    "content": "Đây là con gì?",
-                                    "answer": "cá sấu",
+                                    "content": "Đây là bộ phận gì?",
+                                    "answer": "đầu gối",
                                     "audio": "",
                                     "images": [
-                                        "crocodile"
+                                        "knee"
                                     ]
                                 },
                                 {
                                     "id": 23,
-                                    "content": "Đây là con gì?",
-                                    "answer": "thằn lằn",
+                                    "content": "Đây là bộ phận gì?",
+                                    "answer": "lưỡi",
                                     "audio": "",
                                     "images": [
-                                        "lizard"
+                                        "toungue"
                                     ]
                                 },
                                 {
                                     "id": 24,
-                                    "content": "Đây là con gì?",
-                                    "answer": "tắc kè",
+                                    "content": "Đây là bộ phận gì?",
+                                    "answer": "miệng",
                                     "audio": "",
                                     "images": [
-                                        "gecko"
+                                        "mouth"
                                     ]
                                 }
                             ]

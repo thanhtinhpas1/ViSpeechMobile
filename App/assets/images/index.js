@@ -25,4 +25,18 @@ export const MyImages = {
     learningLevelLesson: require('./level-lessons/learning.jpg'),
     // topics
     learningTopic: require('./topics/learning.jpg'),
+    // people
+    ear: require('./people/ear.jpg'),
+    eye: require('./people/eye.jpg'),
+    foot: require('./people/foot.jpg'),
+    gan: require('./people/gan.jpg'),
+    heart: require('./people/heart.jpg'),
+    knee: require('./people/knee.jpg'),
+    lung: require('./people/lung.jpg'),
+    mouth: require('./people/mouth.jpg'),
+    nose: require('./people/nose.jpg'),
+    people: require('./people/people.jpg'),
+    shoulder: require('./people/shoulder.jpg'),
+    stomatch: require('./people/stomatch.jpg'),
+    toungue: require('./people/toungue.jpg'),
   };
