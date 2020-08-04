@@ -1,0 +1,12 @@
+{
+    "levels": [
+        {
+            "name": "Dễ",
+            "value": 1
+        },
+        {
+            "name": "Khó",
+            "value": 2
+        }
+    ]
+}
