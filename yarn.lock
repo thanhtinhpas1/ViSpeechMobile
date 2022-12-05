@@ -2877,9 +2877,9 @@ decamelize@^1.1.1, decamelize@^1.2.0:
   integrity sha1-9lNNFRSCabIDUue+4m9QH5oZEpA=
 
 decode-uri-component@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.0.tgz#eb3913333458775cb84cd1a1fae062106bb87545"
-  integrity sha1-6zkTMzRYd1y4TNGh+uBiEGu4dUU=
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/decode-uri-component/-/decode-uri-component-0.2.2.tgz#e69dbe25d37941171dd540e024c444cd5188e1e9"
+  integrity sha512-FqUYQ+8o158GyGTrMFJms9qh3CqTKvAqgqsTnkLI8sKu0028orqBhxNMFkFen0zGyg6epACD32pjVk58ngIErQ==
 
 deep-assign@^3.0.0:
   version "3.0.0"
@@ -3305,6 +3305,14 @@ expo-file-system@~8.1.0:
   integrity sha512-xb4roeU8CotW8t3LkmsrliNbgFpY2KB+3sW1NnujnH39pFVwCd/kfujCYzRauj8aUy/HhSq+3xGkQTpC7pSjVw==
   dependencies:
     uuid "^3.4.0"
+
+expo-font@^8.2.1:
+  version "8.4.0"
+  resolved "https://registry.yarnpkg.com/expo-font/-/expo-font-8.4.0.tgz#7cb4cc9d852dd8d0977ce425146b94221b40c1d5"
+  integrity sha512-CPGcHLUkPP+yf618fiw2bWTFLojIYCCqWonco/JONcM3tsv6wjkafx4Qw1mMCRoFL7XoiBfHylkKnD0avpzQIQ==
+  dependencies:
+    fbjs "1.0.0"
+    fontfaceobserver "^2.1.0"
 
 expo-font@~8.1.0:
   version "8.1.1"
@@ -4980,6 +4988,11 @@ jetifier@^1.6.2:
   version "1.6.6"
   resolved "https://registry.yarnpkg.com/jetifier/-/jetifier-1.6.6.tgz#fec8bff76121444c12dc38d2dad6767c421dab68"
   integrity sha512-JNAkmPeB/GS2tCRqUzRPsTOHpGDah7xP18vGJfIjZC+W2sxEHbxgJxetIjIqhjQ3yYbYNEELkM/spKLtwoOSUQ==
+
+jetifier@^1.6.6:
+  version "1.6.8"
+  resolved "https://registry.yarnpkg.com/jetifier/-/jetifier-1.6.8.tgz#e88068697875cbda98c32472902c4d3756247798"
+  integrity sha512-3Zi16h6L5tXDRQJTb221cnRoVG9/9OvreLdLU2/ZjRv/GILL+2Cemt0IKvkowwkDpvouAU1DQPOJ7qaiHeIdrw==
 
 "js-tokens@^3.0.0 || ^4.0.0", js-tokens@^4.0.0:
   version "4.0.0"
